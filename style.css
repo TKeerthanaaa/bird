@@ -1,0 +1,26 @@
+.container {
+    width: 46px;
+    height: auto;
+}
+.img {
+    width: 0.36000px;
+    margin: auto;
+}
+
+.fly {
+    position: absolute;
+    top: 39%;
+    right: 48%;
+    color: rgb(5, 24, 28);
+font-family: cursive;
+font-size: larger;
+}
+
+.footer{
+    position: absolute;
+    font-size: large;
+    bottom: -1%;
+    right: 20%;
+    font-style: italic;
+
+}
